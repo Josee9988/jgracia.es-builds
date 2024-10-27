@@ -1,0 +1,6 @@
+# Allow all URLs (see http://www.robotstxt.org/robotstxt.html)
+User-agent: *
+# We block all the images from being indexed
+Disallow: /assets/
+Visit-time: 0200-0745
+Sitemap: https://jgracia.es/sitemap.xml
